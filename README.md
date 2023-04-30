@@ -1,6 +1,12 @@
 # Domain-Relevance of Influence: Characterizing variations in online influence across multiple domains on social media
 
-1. The data set comes from our paper titled "Domain-Relevance of Influence: Characterizing variations in online influence across multiple domains on social media".
+run the code for making Figure1
+python3 Figure1.py
+
+run the code for making Table1
+python3 Table1.py
+
+1. The data set and codes come from our paper titled "Domain-Relevance of Influence: Characterizing variations in online influence across multiple domains on social media".
 
 2. Due to privacy consideration regarding users in our dataset, we have deleted the user names and IDs, and all target users have posted at least twice.
 
