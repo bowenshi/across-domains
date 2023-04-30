@@ -1,0 +1,400 @@
+**************************************topic=0**************************************
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      lg(Indegree rank)   R-squared:                       0.357
+Model:                            OLS   Adj. R-squared:                  0.329
+Method:                 Least Squares   F-statistic:                     13.16
+Date:                Sun, 30 Apr 2023   Prob (F-statistic):           4.69e-15
+Time:                        15:12:36   Log-Likelihood:                -63.225
+No. Observations:                 199   AIC:                             144.4
+Df Residuals:                     190   BIC:                             174.1
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       1.6703      0.152     10.980      0.000       1.370       1.970
+Cross-domain capability    -0.1424      0.017     -8.547      0.000      -0.175      -0.110
+lg(Activity)               -0.0299      0.048     -0.624      0.534      -0.125       0.065
+lg(Followers)              -0.0803      0.044     -1.813      0.071      -0.168       0.007
+V-1                         0.2987      0.068      4.381      0.000       0.164       0.433
+V0                          0.2796      0.063      4.427      0.000       0.155       0.404
+V1                          0.4210      0.117      3.597      0.000       0.190       0.652
+V2                          0.3370      0.144      2.346      0.020       0.054       0.620
+V3                          0.3340      0.081      4.131      0.000       0.175       0.494
+male                        0.8498      0.082     10.394      0.000       0.689       1.011
+female                      0.8205      0.079     10.356      0.000       0.664       0.977
+==============================================================================
+Omnibus:                       42.619   Durbin-Watson:                   0.685
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              106.927
+Skew:                          -0.928   Prob(JB):                     6.04e-24
+Kurtosis:                       6.075   Cond. No.                     5.66e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 3.54e-30. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+const                      1.670298
+Cross-domain capability   -0.142443
+lg(Activity)              -0.029933
+lg(Followers)             -0.080313
+V-1                        0.298691
+V0                         0.279646
+V1                         0.420957
+V2                         0.336986
+V3                         0.334018
+male                       0.849820
+female                     0.820478
+dtype: float64
+**************************************topic=0**************************************
+**************************************topic=1**************************************
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      lg(Indegree rank)   R-squared:                       0.298
+Model:                            OLS   Adj. R-squared:                  0.268
+Method:                 Least Squares   F-statistic:                     9.838
+Date:                Sun, 30 Apr 2023   Prob (F-statistic):           2.32e-11
+Time:                        15:12:36   Log-Likelihood:                -64.289
+No. Observations:                 194   AIC:                             146.6
+Df Residuals:                     185   BIC:                             176.0
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       1.3082      0.111     11.802      0.000       1.090       1.527
+Cross-domain capability    -0.1164      0.018     -6.532      0.000      -0.152      -0.081
+lg(Activity)               -0.0515      0.045     -1.139      0.256      -0.141       0.038
+lg(Followers)              -0.0038      0.032     -0.122      0.903      -0.066       0.058
+V-1                         0.3073      0.051      6.075      0.000       0.207       0.407
+V0                          0.3099      0.053      5.821      0.000       0.205       0.415
+V1                          0.1072      0.097      1.108      0.269      -0.084       0.298
+V2                          0.3783      0.106      3.577      0.000       0.170       0.587
+V3                          0.2054      0.069      2.975      0.003       0.069       0.342
+male                        0.7048      0.062     11.377      0.000       0.583       0.827
+female                      0.6034      0.064      9.362      0.000       0.476       0.731
+==============================================================================
+Omnibus:                       24.264   Durbin-Watson:                   0.559
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               30.059
+Skew:                          -0.838   Prob(JB):                     2.97e-07
+Kurtosis:                       3.954   Cond. No.                     1.02e+17
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 8.79e-31. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+const                      1.308196
+Cross-domain capability   -0.116449
+lg(Activity)              -0.051529
+lg(Followers)             -0.003845
+V-1                        0.307298
+V0                         0.309894
+V1                         0.107222
+V2                         0.378343
+V3                         0.205438
+male                       0.704807
+female                     0.603389
+dtype: float64
+**************************************topic=1**************************************
+**************************************topic=2**************************************
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      lg(Indegree rank)   R-squared:                       0.220
+Model:                            OLS   Adj. R-squared:                  0.185
+Method:                 Least Squares   F-statistic:                     6.302
+Date:                Sun, 30 Apr 2023   Prob (F-statistic):           1.60e-06
+Time:                        15:12:37   Log-Likelihood:                -65.134
+No. Observations:                 164   AIC:                             146.3
+Df Residuals:                     156   BIC:                             171.1
+Df Model:                           7                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       1.8612      0.162     11.490      0.000       1.541       2.181
+Cross-domain capability     0.0188      0.022      0.838      0.403      -0.025       0.063
+lg(Activity)               -0.2222      0.048     -4.617      0.000      -0.317      -0.127
+lg(Followers)              -0.1608      0.046     -3.533      0.001      -0.251      -0.071
+V-1                         0.4821      0.058      8.303      0.000       0.367       0.597
+V0                          0.4683      0.075      6.215      0.000       0.319       0.617
+V1                       9.223e-18   1.05e-17      0.879      0.381   -1.15e-17       3e-17
+V2                          0.3695      0.077      4.781      0.000       0.217       0.522
+V3                          0.5413      0.085      6.384      0.000       0.374       0.709
+male                        0.9117      0.086     10.641      0.000       0.742       1.081
+female                      0.9494      0.092     10.313      0.000       0.768       1.131
+==============================================================================
+Omnibus:                       45.886   Durbin-Watson:                   0.440
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               85.901
+Skew:                          -1.325   Prob(JB):                     2.22e-19
+Kurtosis:                       5.355   Cond. No.                     1.39e+18
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 3.8e-33. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+const                      1.861175e+00
+Cross-domain capability    1.876074e-02
+lg(Activity)              -2.222087e-01
+lg(Followers)             -1.608374e-01
+V-1                        4.821171e-01
+V0                         4.682540e-01
+V1                         9.223396e-18
+V2                         3.694937e-01
+V3                         5.413102e-01
+male                       9.117436e-01
+female                     9.494313e-01
+dtype: float64
+**************************************topic=2**************************************
+**************************************topic=3**************************************
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      lg(Indegree rank)   R-squared:                       0.119
+Model:                            OLS   Adj. R-squared:                  0.081
+Method:                 Least Squares   F-statistic:                     3.159
+Date:                Sun, 30 Apr 2023   Prob (F-statistic):            0.00222
+Time:                        15:12:37   Log-Likelihood:                -93.382
+No. Observations:                 196   AIC:                             204.8
+Df Residuals:                     187   BIC:                             234.3
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       1.6581      0.166      9.998      0.000       1.331       1.985
+Cross-domain capability    -0.0526      0.021     -2.450      0.015      -0.095      -0.010
+lg(Activity)               -0.1015      0.049     -2.077      0.039      -0.198      -0.005
+lg(Followers)              -0.0880      0.044     -2.021      0.045      -0.174      -0.002
+V-1                         0.3094      0.090      3.442      0.001       0.132       0.487
+V0                          0.2524      0.073      3.438      0.001       0.108       0.397
+V1                          0.5191      0.244      2.129      0.035       0.038       1.000
+V2                          0.1119      0.079      1.411      0.160      -0.045       0.268
+V3                          0.4653      0.103      4.500      0.000       0.261       0.669
+male                        0.8692      0.089      9.753      0.000       0.693       1.045
+female                      0.7889      0.089      8.851      0.000       0.613       0.965
+==============================================================================
+Omnibus:                       54.608   Durbin-Watson:                   0.246
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              102.507
+Skew:                          -1.378   Prob(JB):                     5.51e-23
+Kurtosis:                       5.227   Cond. No.                     9.10e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 1.2e-30. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+const                      1.658082
+Cross-domain capability   -0.052557
+lg(Activity)              -0.101546
+lg(Followers)             -0.087983
+V-1                        0.309407
+V0                         0.252399
+V1                         0.519093
+V2                         0.111917
+V3                         0.465267
+male                       0.869230
+female                     0.788852
+dtype: float64
+**************************************topic=3**************************************
+**************************************topic=4**************************************
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      lg(Indegree rank)   R-squared:                       0.296
+Model:                            OLS   Adj. R-squared:                  0.266
+Method:                 Least Squares   F-statistic:                     9.729
+Date:                Sun, 30 Apr 2023   Prob (F-statistic):           3.08e-11
+Time:                        15:12:37   Log-Likelihood:                -71.643
+No. Observations:                 194   AIC:                             161.3
+Df Residuals:                     185   BIC:                             190.7
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       1.7142      0.149     11.534      0.000       1.421       2.007
+Cross-domain capability    -0.1266      0.018     -7.075      0.000      -0.162      -0.091
+lg(Activity)               -0.1452      0.053     -2.727      0.007      -0.250      -0.040
+lg(Followers)              -0.0416      0.037     -1.133      0.259      -0.114       0.031
+V-1                         0.2347      0.087      2.703      0.008       0.063       0.406
+V0                          0.2229      0.084      2.655      0.009       0.057       0.389
+V1                          0.8912      0.304      2.933      0.004       0.292       1.491
+V2                          0.0917      0.136      0.674      0.501      -0.177       0.360
+V3                          0.2737      0.098      2.788      0.006       0.080       0.467
+male                        0.8419      0.080     10.550      0.000       0.684       0.999
+female                      0.8723      0.078     11.141      0.000       0.718       1.027
+==============================================================================
+Omnibus:                       49.490   Durbin-Watson:                   0.637
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               95.974
+Skew:                          -1.231   Prob(JB):                     1.44e-21
+Kurtosis:                       5.411   Cond. No.                     6.89e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 2.31e-30. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+const                      1.714161
+Cross-domain capability   -0.126596
+lg(Activity)              -0.145158
+lg(Followers)             -0.041580
+V-1                        0.234683
+V0                         0.222949
+V1                         0.891189
+V2                         0.091656
+V3                         0.273684
+male                       0.841859
+female                     0.872302
+dtype: float64
+**************************************topic=4**************************************
+**************************************topic=5**************************************
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      lg(Indegree rank)   R-squared:                       0.343
+Model:                            OLS   Adj. R-squared:                  0.314
+Method:                 Least Squares   F-statistic:                     11.95
+Date:                Sun, 30 Apr 2023   Prob (F-statistic):           1.16e-13
+Time:                        15:12:37   Log-Likelihood:                -63.553
+No. Observations:                 192   AIC:                             145.1
+Df Residuals:                     183   BIC:                             174.4
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       1.4253      0.124     11.470      0.000       1.180       1.670
+Cross-domain capability    -0.1222      0.018     -6.746      0.000      -0.158      -0.086
+lg(Activity)               -0.1161      0.038     -3.034      0.003      -0.192      -0.041
+lg(Followers)              -0.0062      0.035     -0.176      0.861      -0.075       0.063
+V-1                         0.3430      0.063      5.470      0.000       0.219       0.467
+V0                          0.3738      0.052      7.172      0.000       0.271       0.477
+V1                          0.2023      0.094      2.154      0.033       0.017       0.388
+V2                          0.2498      0.075      3.337      0.001       0.102       0.397
+V3                          0.2564      0.069      3.736      0.000       0.121       0.392
+male                        0.6837      0.068     10.067      0.000       0.550       0.818
+female                      0.7416      0.073     10.114      0.000       0.597       0.886
+==============================================================================
+Omnibus:                       41.405   Durbin-Watson:                   0.748
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               71.692
+Skew:                          -1.098   Prob(JB):                     2.71e-16
+Kurtosis:                       5.035   Cond. No.                     9.15e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 1.15e-30. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+const                      1.425306
+Cross-domain capability   -0.122236
+lg(Activity)              -0.116119
+lg(Followers)             -0.006158
+V-1                        0.343021
+V0                         0.373816
+V1                         0.202275
+V2                         0.249751
+V3                         0.256443
+male                       0.683672
+female                     0.741634
+dtype: float64
+**************************************topic=5**************************************
+**************************************topic=6**************************************
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      lg(Indegree rank)   R-squared:                       0.438
+Model:                            OLS   Adj. R-squared:                  0.413
+Method:                 Least Squares   F-statistic:                     17.82
+Date:                Sun, 30 Apr 2023   Prob (F-statistic):           1.54e-19
+Time:                        15:12:37   Log-Likelihood:                -46.977
+No. Observations:                 192   AIC:                             112.0
+Df Residuals:                     183   BIC:                             141.3
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       1.6938      0.108     15.689      0.000       1.481       1.907
+Cross-domain capability    -0.0890      0.017     -5.332      0.000      -0.122      -0.056
+lg(Activity)               -0.2984      0.039     -7.568      0.000      -0.376      -0.221
+lg(Followers)              -0.0499      0.029     -1.691      0.093      -0.108       0.008
+V-1                         0.3937      0.047      8.369      0.000       0.301       0.486
+V0                          0.3371      0.047      7.205      0.000       0.245       0.429
+V1                          0.2679      0.084      3.172      0.002       0.101       0.435
+V2                          0.3942      0.091      4.352      0.000       0.215       0.573
+V3                          0.3010      0.071      4.262      0.000       0.162       0.440
+male                        0.8984      0.062     14.517      0.000       0.776       1.020
+female                      0.7954      0.061     12.939      0.000       0.674       0.917
+==============================================================================
+Omnibus:                       17.629   Durbin-Watson:                   0.913
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               19.601
+Skew:                          -0.736   Prob(JB):                     5.54e-05
+Kurtosis:                       3.531   Cond. No.                     9.79e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 9.17e-31. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+const                      1.693812
+Cross-domain capability   -0.088968
+lg(Activity)              -0.298394
+lg(Followers)             -0.049879
+V-1                        0.393651
+V0                         0.337082
+V1                         0.267920
+V2                         0.394156
+V3                         0.301002
+male                       0.898378
+female                     0.795433
+dtype: float64
+**************************************topic=6**************************************
+**************************************topic=all**************************************
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      lg(Indegree rank)   R-squared:                       0.560
+Model:                            OLS   Adj. R-squared:                  0.556
+Method:                 Least Squares   F-statistic:                     146.4
+Date:                Sun, 30 Apr 2023   Prob (F-statistic):          2.50e-158
+Time:                        15:12:37   Log-Likelihood:                -160.33
+No. Observations:                 930   AIC:                             338.7
+Df Residuals:                     921   BIC:                             382.2
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       2.3675      0.043     54.629      0.000       2.282       2.453
+Cross-domain capability    -0.2146      0.010    -20.649      0.000      -0.235      -0.194
+lg(Activity)               -0.0897      0.020     -4.591      0.000      -0.128      -0.051
+lg(Followers)              -0.1523      0.013    -12.015      0.000      -0.177      -0.127
+V-1                         0.4063      0.021     19.238      0.000       0.365       0.448
+V0                          0.3572      0.020     18.048      0.000       0.318       0.396
+V1                          0.6148      0.047     13.166      0.000       0.523       0.706
+V2                          0.4787      0.026     18.095      0.000       0.427       0.531
+V3                          0.5105      0.026     19.702      0.000       0.460       0.561
+male                        1.2498      0.023     54.725      0.000       1.205       1.295
+female                      1.1177      0.025     44.050      0.000       1.068       1.167
+==============================================================================
+Omnibus:                      131.903   Durbin-Watson:                   1.146
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              259.484
+Skew:                          -0.844   Prob(JB):                     4.51e-57
+Kurtosis:                       4.961   Cond. No.                     3.91e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 2.89e-29. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+const                      2.367469
+Cross-domain capability   -0.214554
+lg(Activity)              -0.089676
+lg(Followers)             -0.152307
+V-1                        0.406310
+V0                         0.357181
+V1                         0.614804
+V2                         0.478718
+V3                         0.510455
+male                       1.249815
+female                     1.117654
+dtype: float64
+**************************************topic=all**************************************
