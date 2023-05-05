@@ -1,13 +1,9 @@
 # Domain-Relevance of Influence: Characterizing variations in online influence across multiple domains on social media
 
-run the code for making Figure1: 
-python3 Figure1.py
+The latest version of the data set and codes can be found in the branch
 
-run the code for making Table1: 
-python3 Table1.py
+https://github.com/bowenshi/cross-domains/tree/master
 
-run the code for making Table2: 
-python3 Table2.py
 
 1. The data set and codes come from our paper titled "Domain-Relevance of Influence: Characterizing variations in online influence across multiple domains on social media".
 
