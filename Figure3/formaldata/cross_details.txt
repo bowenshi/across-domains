@@ -1,0 +1,990 @@
+1625661441	0	[3]	id vtype cross
+1092538373	3	[2]	id vtype cross
+2080114694	0	[0, 4]	id vtype cross
+2297493511	0	[0]	id vtype cross
+2776631980	2	[3]	id vtype cross
+1850988623	3	[2, 3]	id vtype cross
+2243807243	3	[0, 1, 3, 4]	id vtype cross
+2176645133	0	[0]	id vtype cross
+2150758415	-1	[1, 5, 6]	id vtype cross
+2217066377	-1	[2]	id vtype cross
+1642512402	3	[0, 4, 5]	id vtype cross
+3214528531	2	[3]	id vtype cross
+1663088660	3	[4]	id vtype cross
+2626682903	0	[0, 1, 5]	id vtype cross
+1752549400	3	[5]	id vtype cross
+3095347225	-1	[1, 6]	id vtype cross
+3986147355	0	[4]	id vtype cross
+2497298463	3	[3]	id vtype cross
+5055789088	3	[2]	id vtype cross
+2302617634	0	[2]	id vtype cross
+1816750115	0	[4]	id vtype cross
+3737972773	0	[3, 5]	id vtype cross
+1742013781	5	[5]	id vtype cross
+1442246695	0	[1, 5, 6]	id vtype cross
+1826017320	3	[3]	id vtype cross
+3920631851	0	[2]	id vtype cross
+2981083181	0	[1]	id vtype cross
+2728296497	0	[1]	id vtype cross
+1662214194	0	[0, 1, 2, 3, 4, 5, 6]	id vtype cross
+2119628851	1	[0, 5, 6]	id vtype cross
+3881132085	-1	[1]	id vtype cross
+1907214345	0	[5]	id vtype cross
+1686199162	-1	[6]	id vtype cross
+5181464632	0	[0]	id vtype cross
+2706896955	0	[0, 4]	id vtype cross
+2382356540	0	[1, 6]	id vtype cross
+3660593213	0	[0, 1]	id vtype cross
+2205169727	0	[2]	id vtype cross
+2794283127	0	[6]	id vtype cross
+2342024544	3	[1, 6]	id vtype cross
+1191258123	0	[4]	id vtype cross
+3926197181	0	[3]	id vtype cross
+1894195274	2	[3]	id vtype cross
+2097024354	1	[6]	id vtype cross
+1843443790	0	[4]	id vtype cross
+2141823055	0	[0, 4]	id vtype cross
+5346801743	-1	[1]	id vtype cross
+1977460817	3	[0]	id vtype cross
+2610020434	5	[2]	id vtype cross
+2855071827	0	[0]	id vtype cross
+2970036311	0	[0, 4]	id vtype cross
+1886419032	0	[0, 4]	id vtype cross
+1715118170	0	[3]	id vtype cross
+1895327843	0	[0]	id vtype cross
+1712318565	3	[2]	id vtype cross
+2430259303	0	[0, 2, 4]	id vtype cross
+2262509697	-1	[3]	id vtype cross
+1990895721	3	[2]	id vtype cross
+1878335471	3	[4]	id vtype cross
+5556869758	0	[3]	id vtype cross
+1315706994	3	[4]	id vtype cross
+1660612723	-1	[0]	id vtype cross
+1909203062	-1	[1]	id vtype cross
+3568562537	7	[5]	id vtype cross
+3630172281	0	[4]	id vtype cross
+1763582395	0	[2]	id vtype cross
+5037267067	-1	[3]	id vtype cross
+2087764093	2	[3]	id vtype cross
+1888116862	0	[5]	id vtype cross
+1069205631	3	[5]	id vtype cross
+3171897472	5	[2]	id vtype cross
+3142625147	-1	[1]	id vtype cross
+1935084477	0	[5]	id vtype cross
+1738932247	0	[0, 4]	id vtype cross
+1681672334	-1	[0, 4]	id vtype cross
+1679577453	0	[3, 4]	id vtype cross
+1732530321	-1	[6]	id vtype cross
+2219227283	-1	[1]	id vtype cross
+1945584665	0	[5]	id vtype cross
+1726544024	0	[3]	id vtype cross
+1496981661	5	[6]	id vtype cross
+2203441861	0	[6]	id vtype cross
+2792589472	0	[4]	id vtype cross
+2143324323	-1	[1]	id vtype cross
+5220839587	0	[0]	id vtype cross
+1644458353	2	[5]	id vtype cross
+2243735721	0	[2]	id vtype cross
+2211979435	3	[2]	id vtype cross
+3954698413	0	[0]	id vtype cross
+3837704366	-1	[1, 6]	id vtype cross
+1886903325	3	[4]	id vtype cross
+1642592432	3	[4]	id vtype cross
+1895291251	0	[4]	id vtype cross
+1904769205	2	[3]	id vtype cross
+5111339189	-1	[2]	id vtype cross
+2375086267	3	[1, 6]	id vtype cross
+1764442302	-1	[0, 3, 4]	id vtype cross
+3869601985	0	[1]	id vtype cross
+6027167937	0	[2]	id vtype cross
+1696762051	0	[5]	id vtype cross
+1915441185	-1	[4]	id vtype cross
+5941459143	0	[6]	id vtype cross
+2619577243	2	[4]	id vtype cross
+2993049293	3	[2, 6]	id vtype cross
+1615743184	0	[0, 4]	id vtype cross
+2164154963	0	[6]	id vtype cross
+1714397395	5	[2]	id vtype cross
+1803554510	0	[6]	id vtype cross
+2835724503	0	[0, 4]	id vtype cross
+1663312090	2	[2]	id vtype cross
+5705021476	0	[4]	id vtype cross
+1329471713	0	[1]	id vtype cross
+1810632930	0	[3]	id vtype cross
+1875034341	3	[1, 5]	id vtype cross
+1880047847	0	[4]	id vtype cross
+5135808743	0	[0, 3]	id vtype cross
+2068195561	-1	[4]	id vtype cross
+6004273387	0	[6]	id vtype cross
+1897320685	0	[5]	id vtype cross
+2247164142	0	[0, 4]	id vtype cross
+5751412092	-1	[3]	id vtype cross
+1768198384	2	[3, 4, 6]	id vtype cross
+1656316841	5	[6]	id vtype cross
+1622008051	5	[3]	id vtype cross
+3802896629	3	[2]	id vtype cross
+2328516855	1	[0, 1, 3, 5, 6]	id vtype cross
+1641561812	3	[5]	id vtype cross
+2289537274	0	[4]	id vtype cross
+2671769851	-1	[0]	id vtype cross
+5886488831	-1	[1]	id vtype cross
+3030737153	0	[3]	id vtype cross
+1747494955	-1	[2]	id vtype cross
+1402400261	0	[3]	id vtype cross
+2335625480	0	[1]	id vtype cross
+1444225292	0	[2]	id vtype cross
+3204839810	7	[2]	id vtype cross
+2868676035	5	[5]	id vtype cross
+5466272016	2	[2]	id vtype cross
+2397997330	0	[2]	id vtype cross
+2156466452	-1	[0]	id vtype cross
+1697601814	3	[0, 1, 5]	id vtype cross
+1189615035	0	[2]	id vtype cross
+1097201945	0	[0, 3, 4]	id vtype cross
+1686546714	3	[1, 6]	id vtype cross
+1713926427	-1	[0, 2, 3, 4]	id vtype cross
+2202911004	0	[6]	id vtype cross
+6022310172	-1	[6]	id vtype cross
+1698513182	3	[2]	id vtype cross
+1749224837	0	[3]	id vtype cross
+3296530723	7	[2]	id vtype cross
+3042027813	0	[4]	id vtype cross
+1990275137	3	[2]	id vtype cross
+2418895143	2	[0]	id vtype cross
+1720664360	0	[4]	id vtype cross
+1744957737	5	[2]	id vtype cross
+1943171370	0	[3]	id vtype cross
+2064746795	-1	[6]	id vtype cross
+5582182700	-1	[2]	id vtype cross
+2214257545	0	[4]	id vtype cross
+2288486705	0	[5]	id vtype cross
+1804549454	0	[4]	id vtype cross
+1968863541	1	[6]	id vtype cross
+5044705593	0	[0]	id vtype cross
+2418842335	0	[2]	id vtype cross
+2231869757	3	[2]	id vtype cross
+1288915263	1	[0]	id vtype cross
+2481951041	7	[2]	id vtype cross
+1195354434	0	[1, 2, 6]	id vtype cross
+2587718027	0	[6]	id vtype cross
+1267454277	3	[1, 6]	id vtype cross
+5370547595	-1	[6]	id vtype cross
+1728148193	3	[6]	id vtype cross
+1747843401	5	[2]	id vtype cross
+1791283533	-1	[5]	id vtype cross
+1253452111	0	[3]	id vtype cross
+3464419664	0	[5]	id vtype cross
+5437851984	0	[2]	id vtype cross
+1645903643	2	[5]	id vtype cross
+5087015251	-1	[2]	id vtype cross
+1726918143	3	[5]	id vtype cross
+1747790171	0	[0, 2]	id vtype cross
+3305085281	0	[0, 3, 4, 5, 6]	id vtype cross
+1846116411	3	[4]	id vtype cross
+3794240230	0	[6]	id vtype cross
+2860640482	-1	[4]	id vtype cross
+5297303912	-1	[3]	id vtype cross
+2723838314	3	[4]	id vtype cross
+1974945511	0	[5]	id vtype cross
+5324802169	2	[4]	id vtype cross
+2852761965	2	[1]	id vtype cross
+3079645245	3	[5]	id vtype cross
+1926652273	0	[3, 4, 5]	id vtype cross
+2063264115	2	[3]	id vtype cross
+5250260756	0	[2]	id vtype cross
+3069348215	0	[2, 4, 5]	id vtype cross
+1883881851	7	[2]	id vtype cross
+2174534013	0	[2]	id vtype cross
+1791867263	-1	[0, 4]	id vtype cross
+1714915392	5	[6]	id vtype cross
+3716243842	0	[1, 5]	id vtype cross
+1488228740	5	[6]	id vtype cross
+2028810631	3	[0, 1, 5]	id vtype cross
+3800480136	3	[2]	id vtype cross
+5590046102	0	[0]	id vtype cross
+2630646082	0	[3]	id vtype cross
+2560182670	0	[0]	id vtype cross
+5053469079	1	[5]	id vtype cross
+5497993620	0	[0, 6]	id vtype cross
+3173515672	0	[2]	id vtype cross
+2991206810	2	[3]	id vtype cross
+1904671130	3	[4]	id vtype cross
+1675723167	0	[3]	id vtype cross
+3230122083	2	[3]	id vtype cross
+2018980260	-1	[1]	id vtype cross
+5058390436	3	[2]	id vtype cross
+2156294570	2	[2, 3]	id vtype cross
+2634877355	0	[3]	id vtype cross
+1682207150	3	[0, 5]	id vtype cross
+2230913455	3	[0]	id vtype cross
+5408596403	0	[2]	id vtype cross
+1258256457	0	[4]	id vtype cross
+2150511032	0	[0, 4]	id vtype cross
+1935591865	2	[3]	id vtype cross
+5190095289	-1	[2]	id vtype cross
+2656274875	3	[0, 1, 2, 3, 4, 5, 6]	id vtype cross
+1693177930	0	[3]	id vtype cross
+1046561220	3	[2]	id vtype cross
+2054853403	0	[4]	id vtype cross
+1771925961	2	[3]	id vtype cross
+1537790411	0	[1, 2, 4]	id vtype cross
+1985393563	0	[4]	id vtype cross
+1740005437	0	[6]	id vtype cross
+2612183504	0	[1]	id vtype cross
+1211107793	0	[2]	id vtype cross
+1664176597	3	[5]	id vtype cross
+2142168143	0	[0, 2, 3, 4]	id vtype cross
+1806089637	-1	[6]	id vtype cross
+1676001761	0	[0]	id vtype cross
+5241532897	-1	[1]	id vtype cross
+2683843043	2	[3]	id vtype cross
+5500545510	2	[2]	id vtype cross
+1912234472	0	[6]	id vtype cross
+1947083247	-1	[2]	id vtype cross
+1483330984	0	[5]	id vtype cross
+1639483893	-1	[4]	id vtype cross
+5235726837	2	[2]	id vtype cross
+2730881795	-1	[2]	id vtype cross
+1416739583	-1	[1]	id vtype cross
+1642635773	0	[0, 4]	id vtype cross
+6002842109	3	[1]	id vtype cross
+5969581482	-1	[1]	id vtype cross
+1905549057	0	[5]	id vtype cross
+2132734472	-1	[3, 4]	id vtype cross
+1509681674	0	[5]	id vtype cross
+1725010007	-1	[2]	id vtype cross
+1909752335	-1	[0, 4, 5]	id vtype cross
+2397991440	0	[0, 1, 4, 5]	id vtype cross
+2757691921	1	[6]	id vtype cross
+1300957955	0	[2, 3]	id vtype cross
+5999243797	-1	[1]	id vtype cross
+3917499594	1	[5, 6]	id vtype cross
+1649159940	3	[1, 5]	id vtype cross
+1933386274	0	[3]	id vtype cross
+1644948230	3	[0, 5]	id vtype cross
+3644441127	0	[4]	id vtype cross
+5681482843	2	[6]	id vtype cross
+2091390311	0	[4]	id vtype cross
+2494935602	0	[2]	id vtype cross
+1712570933	0	[0, 2, 4, 5]	id vtype cross
+2369080114	0	[5]	id vtype cross
+1784537661	0	[4]	id vtype cross
+1004853823	0	[5]	id vtype cross
+2505894464	-1	[0]	id vtype cross
+5590704704	5	[1, 6]	id vtype cross
+2660577861	2	[3]	id vtype cross
+1742121542	0	[4]	id vtype cross
+3921730119	3	[1]	id vtype cross
+3460516424	0	[4]	id vtype cross
+1885454921	5	[1, 5, 6]	id vtype cross
+2971183691	7	[2]	id vtype cross
+1991428685	2	[3]	id vtype cross
+1956700750	3	[3, 5]	id vtype cross
+1618051664	3	[0, 1, 5, 6]	id vtype cross
+5634753105	0	[0, 4]	id vtype cross
+1663072851	3	[0, 1, 5, 6]	id vtype cross
+1998412373	5	[3, 4]	id vtype cross
+1191965271	3	[0, 1, 4]	id vtype cross
+2450512472	3	[2]	id vtype cross
+2001530981	5	[6]	id vtype cross
+3579155041	-1	[1, 3, 6]	id vtype cross
+6013864545	-1	[2]	id vtype cross
+2286908003	3	[0, 1, 2, 3, 4, 5, 6]	id vtype cross
+3788429925	0	[4]	id vtype cross
+1859428970	1	[6]	id vtype cross
+2067756135	-1	[0, 3]	id vtype cross
+3876467311	0	[0]	id vtype cross
+2144789105	-1	[1, 5, 6]	id vtype cross
+1893660435	2	[4]	id vtype cross
+2099591797	0	[6]	id vtype cross
+2834256503	-1	[6]	id vtype cross
+5340011128	-1	[1]	id vtype cross
+2512574061	0	[4]	id vtype cross
+3002792573	0	[1]	id vtype cross
+6014403348	-1	[1, 6]	id vtype cross
+2796335744	-1	[2]	id vtype cross
+1847798401	0	[4]	id vtype cross
+1315420805	0	[3]	id vtype cross
+1680685707	5	[5]	id vtype cross
+1911906957	5	[2]	id vtype cross
+1817162382	0	[1, 6]	id vtype cross
+1774676624	0	[0]	id vtype cross
+1726551832	2	[3]	id vtype cross
+3774371267	3	[4]	id vtype cross
+5909185172	0	[0, 3, 4]	id vtype cross
+1864696473	-1	[6]	id vtype cross
+5648516491	2	[3]	id vtype cross
+5607510118	2	[3]	id vtype cross
+2482557597	0	[0, 1, 2, 3, 4, 6]	id vtype cross
+5568490146	0	[2, 6]	id vtype cross
+1871180452	-1	[3]	id vtype cross
+2855852714	0	[1]	id vtype cross
+1653689003	3	[1]	id vtype cross
+5508233899	0	[2]	id vtype cross
+1235457821	0	[5]	id vtype cross
+2368746162	0	[0]	id vtype cross
+1880317385	-1	[6]	id vtype cross
+2118199994	-1	[1]	id vtype cross
+5611549371	1	[6]	id vtype cross
+3500618431	3	[1]	id vtype cross
+6008285888	-1	[2]	id vtype cross
+2466386627	0	[2]	id vtype cross
+1916248772	2	[3]	id vtype cross
+1784404677	3	[2]	id vtype cross
+5239450309	-1	[0, 4]	id vtype cross
+1736315592	0	[3, 4]	id vtype cross
+2348604107	0	[6]	id vtype cross
+3894844112	-1	[5]	id vtype cross
+5577317154	0	[6]	id vtype cross
+5940474579	0	[6]	id vtype cross
+1901333207	3	[2]	id vtype cross
+5066369752	2	[3]	id vtype cross
+3623353053	0	[3, 4, 5]	id vtype cross
+1644114654	3	[0, 1, 3, 5, 6]	id vtype cross
+3948798687	0	[0, 4]	id vtype cross
+1708272353	2	[0, 3]	id vtype cross
+1989534434	-1	[6]	id vtype cross
+2361776867	3	[2]	id vtype cross
+1774662372	0	[0, 4]	id vtype cross
+1706463014	3	[2]	id vtype cross
+1771123430	3	[4]	id vtype cross
+1670421223	0	[5]	id vtype cross
+5198011111	0	[3]	id vtype cross
+2169129705	5	[4]	id vtype cross
+3764674343	-1	[5]	id vtype cross
+1701401324	0	[5]	id vtype cross
+1850145517	0	[6]	id vtype cross
+1340723374	3	[6]	id vtype cross
+1736329970	7	[2]	id vtype cross
+1555113427	-1	[6]	id vtype cross
+1705564917	0	[1]	id vtype cross
+1885741814	2	[3]	id vtype cross
+1291477752	0	[0, 4, 6]	id vtype cross
+1214074324	0	[5]	id vtype cross
+2338816763	2	[3]	id vtype cross
+5041898236	2	[6]	id vtype cross
+5035763146	0	[6]	id vtype cross
+3937348351	1	[0, 1, 3, 4, 5, 6]	id vtype cross
+2991255680	2	[3]	id vtype cross
+1716376363	3	[2]	id vtype cross
+2611641094	-1	[1, 5, 6]	id vtype cross
+1819318401	3	[2]	id vtype cross
+3032210184	2	[3]	id vtype cross
+1650111241	3	[5]	id vtype cross
+5398022921	0	[6]	id vtype cross
+5896401674	2	[3]	id vtype cross
+1894798092	3	[2]	id vtype cross
+1974514450	0	[3]	id vtype cross
+1816029971	0	[0, 1]	id vtype cross
+2218894100	7	[2]	id vtype cross
+2301729557	-1	[1]	id vtype cross
+5311552279	2	[5]	id vtype cross
+2002148123	2	[1, 3, 5, 6]	id vtype cross
+1957800054	0	[4]	id vtype cross
+3413668640	-1	[6]	id vtype cross
+2057769762	0	[4]	id vtype cross
+2615417307	3	[1]	id vtype cross
+2419188521	3	[3]	id vtype cross
+5029399338	0	[1]	id vtype cross
+1709157165	1	[1, 6]	id vtype cross
+5966691117	2	[3]	id vtype cross
+3222817584	3	[0, 4]	id vtype cross
+2713686834	-1	[0]	id vtype cross
+3341507382	-1	[3]	id vtype cross
+2609400635	0	[0, 2, 4, 6]	id vtype cross
+1570308924	1	[1, 5]	id vtype cross
+2431578944	-1	[0, 4]	id vtype cross
+2539961154	1	[1, 5]	id vtype cross
+2637034310	-1	[2]	id vtype cross
+5051077448	-1	[5]	id vtype cross
+5995014987	2	[5]	id vtype cross
+2123664205	0	[0, 1, 3, 5, 6]	id vtype cross
+1774800467	2	[5]	id vtype cross
+5685524083	2	[3]	id vtype cross
+3064515967	0	[4]	id vtype cross
+3922774869	0	[4]	id vtype cross
+5765378903	-1	[1]	id vtype cross
+3929428825	0	[0]	id vtype cross
+1644395354	0	[0, 4]	id vtype cross
+3927042907	-1	[1]	id vtype cross
+2478838621	0	[0]	id vtype cross
+1231317854	0	[5, 6]	id vtype cross
+1198367585	0	[6]	id vtype cross
+1663937380	3	[1, 5]	id vtype cross
+3018242917	-1	[3]	id vtype cross
+5202991931	0	[6]	id vtype cross
+1863185713	0	[5, 6]	id vtype cross
+1866126104	0	[6]	id vtype cross
+1690076015	0	[5]	id vtype cross
+1403915120	0	[6]	id vtype cross
+1642292081	3	[2]	id vtype cross
+1642634100	3	[3, 5]	id vtype cross
+3537136501	-1	[1, 5]	id vtype cross
+5295440802	-1	[6]	id vtype cross
+1649173367	3	[1, 3, 5]	id vtype cross
+5984691065	-1	[0, 4]	id vtype cross
+1808049020	2	[3]	id vtype cross
+1708922835	3	[5]	id vtype cross
+2718604160	0	[0, 1, 4]	id vtype cross
+5625254784	2	[2]	id vtype cross
+2673726341	-1	[1]	id vtype cross
+3229125510	0	[0, 1, 3, 4, 6]	id vtype cross
+5466594184	0	[4]	id vtype cross
+2852307854	-1	[0]	id vtype cross
+1495452561	0	[2]	id vtype cross
+5386897742	2	[6]	id vtype cross
+1298535315	0	[1, 6]	id vtype cross
+1741069204	0	[1]	id vtype cross
+6019918741	0	[1, 2, 5]	id vtype cross
+5720474518	2	[2]	id vtype cross
+1093897112	0	[1]	id vtype cross
+1674242970	-1	[4]	id vtype cross
+5058390938	3	[2]	id vtype cross
+2827386331	0	[3]	id vtype cross
+3099016097	0	[0, 1, 3, 4, 6]	id vtype cross
+3217179555	0	[0, 3, 4]	id vtype cross
+2949264292	-1	[1]	id vtype cross
+1801487174	3	[5]	id vtype cross
+1653076903	0	[0]	id vtype cross
+2082306984	0	[5]	id vtype cross
+2312330153	3	[2]	id vtype cross
+2240717744	0	[3]	id vtype cross
+5057725360	3	[2]	id vtype cross
+1740577714	0	[0, 4]	id vtype cross
+1907542963	0	[0]	id vtype cross
+2836883273	2	[3]	id vtype cross
+1805982651	-1	[1, 3]	id vtype cross
+2100925373	2	[3]	id vtype cross
+1670458304	-1	[5, 6]	id vtype cross
+5465809157	0	[5]	id vtype cross
+3087624011	-1	[6]	id vtype cross
+1523766213	1	[5]	id vtype cross
+2710878191	3	[2]	id vtype cross
+2681256780	0	[6]	id vtype cross
+2509958092	0	[0]	id vtype cross
+1763351504	3	[1]	id vtype cross
+5611537367	2	[6]	id vtype cross
+1002861732	0	[2]	id vtype cross
+2936882141	0	[1]	id vtype cross
+1907166177	0	[0]	id vtype cross
+3712035812	0	[0, 6]	id vtype cross
+1496814565	3	[0]	id vtype cross
+1803570001	0	[5]	id vtype cross
+2180593614	-1	[1]	id vtype cross
+1746580461	0	[4]	id vtype cross
+1819935727	3	[1]	id vtype cross
+1706675184	5	[2]	id vtype cross
+1045269490	0	[6]	id vtype cross
+2087169013	3	[5]	id vtype cross
+5075579048	0	[6]	id vtype cross
+1793000440	3	[5]	id vtype cross
+2085833721	-1	[2]	id vtype cross
+1975415803	2	[3]	id vtype cross
+1642591402	3	[4]	id vtype cross
+2083326977	5	[2]	id vtype cross
+2755394563	5	[2]	id vtype cross
+3800478724	3	[2]	id vtype cross
+3176068101	-1	[1]	id vtype cross
+2173291530	-1	[1]	id vtype cross
+2485122903	0	[2]	id vtype cross
+1880927244	3	[3]	id vtype cross
+5088502796	2	[3]	id vtype cross
+5103645868	0	[4]	id vtype cross
+3097378697	3	[3]	id vtype cross
+3306279953	0	[3, 5]	id vtype cross
+2018499075	5	[2]	id vtype cross
+1985551380	-1	[4]	id vtype cross
+2060903445	3	[2]	id vtype cross
+1565668374	0	[5]	id vtype cross
+1774978073	0	[5]	id vtype cross
+5990922414	0	[4]	id vtype cross
+2127537181	2	[3]	id vtype cross
+1655890975	-1	[0, 4]	id vtype cross
+2258727970	3	[3, 5]	id vtype cross
+5675449379	0	[3]	id vtype cross
+1638781994	3	[2]	id vtype cross
+3704673325	0	[4]	id vtype cross
+1643971635	3	[1, 5]	id vtype cross
+5369689139	-1	[5]	id vtype cross
+1905628462	3	[5]	id vtype cross
+2309846073	0	[0, 1, 3, 4, 5]	id vtype cross
+2968634427	2	[3]	id vtype cross
+1680990025	0	[3]	id vtype cross
+2166792032	0	[0, 2, 4]	id vtype cross
+2134671703	0	[6]	id vtype cross
+1665964555	5	[2]	id vtype cross
+5582937157	2	[1]	id vtype cross
+1649470535	2	[5]	id vtype cross
+3710258141	0	[6]	id vtype cross
+5980267921	2	[2]	id vtype cross
+1265998927	3	[1, 6]	id vtype cross
+3249656920	0	[0]	id vtype cross
+1642566747	3	[0]	id vtype cross
+1760341084	5	[2]	id vtype cross
+1668293725	2	[2]	id vtype cross
+6049590367	0	[4, 6]	id vtype cross
+3855731810	7	[2]	id vtype cross
+5879823459	0	[0]	id vtype cross
+2141791335	0	[0, 1]	id vtype cross
+1497087080	3	[0]	id vtype cross
+1644225642	3	[1]	id vtype cross
+1240246333	-1	[6]	id vtype cross
+1230697584	-1	[4]	id vtype cross
+2182537064	0	[5]	id vtype cross
+1664207987	0	[2]	id vtype cross
+2606879860	3	[5]	id vtype cross
+1827683445	0	[0, 1]	id vtype cross
+1749990115	3	[5]	id vtype cross
+1937376377	0	[2, 4]	id vtype cross
+5876370622	-1	[3]	id vtype cross
+1775979645	0	[3]	id vtype cross
+3876734080	-1	[1]	id vtype cross
+2905579311	0	[6]	id vtype cross
+5126161537	3	[6]	id vtype cross
+1617093763	-1	[6]	id vtype cross
+2591595652	3	[4]	id vtype cross
+2303673483	2	[5]	id vtype cross
+2995631244	0	[0]	id vtype cross
+3508096141	-1	[1]	id vtype cross
+2572366990	0	[0]	id vtype cross
+3066750095	0	[1]	id vtype cross
+1477045392	0	[5]	id vtype cross
+1499104401	3	[6]	id vtype cross
+1762098324	-1	[4]	id vtype cross
+5631861909	0	[2]	id vtype cross
+2255811735	5	[4]	id vtype cross
+6003448985	-1	[5]	id vtype cross
+3021362331	-1	[6]	id vtype cross
+3477513373	-1	[1]	id vtype cross
+5176259742	2	[3]	id vtype cross
+2841877911	5	[2]	id vtype cross
+5394137874	2	[5]	id vtype cross
+2240574632	5	[1]	id vtype cross
+2549228714	0	[0, 1, 2, 3, 4, 6]	id vtype cross
+2810373291	3	[0, 1, 5, 6]	id vtype cross
+1959605421	0	[0]	id vtype cross
+3948713134	0	[0, 4]	id vtype cross
+5532648623	-1	[2, 4]	id vtype cross
+2751313073	0	[2, 6]	id vtype cross
+1411482802	0	[6]	id vtype cross
+1259110474	0	[6]	id vtype cross
+3206603957	2	[3]	id vtype cross
+3161347567	-1	[6]	id vtype cross
+1789834424	0	[0, 4]	id vtype cross
+3098510521	0	[2]	id vtype cross
+2710249981	-1	[1]	id vtype cross
+1660079292	0	[5]	id vtype cross
+2050149565	3	[1]	id vtype cross
+2357832895	3	[2]	id vtype cross
+2095326403	0	[0]	id vtype cross
+1344386244	0	[4]	id vtype cross
+1197362373	0	[4]	id vtype cross
+5189448902	2	[3]	id vtype cross
+1235481371	0	[2]	id vtype cross
+3591355593	0	[3, 4]	id vtype cross
+2280893642	2	[3]	id vtype cross
+1686815607	0	[1, 3]	id vtype cross
+2354644175	0	[4]	id vtype cross
+1410448443	0	[5]	id vtype cross
+1314608344	3	[0, 1, 3, 4, 5, 6]	id vtype cross
+5498972025	7	[2]	id vtype cross
+1803278047	2	[3, 5]	id vtype cross
+1862364383	0	[0, 4]	id vtype cross
+1742566624	0	[0, 1, 2, 3, 4, 5, 6]	id vtype cross
+1644489953	3	[0]	id vtype cross
+2748597475	3	[0, 6]	id vtype cross
+1863089382	0	[0]	id vtype cross
+3201529063	2	[3]	id vtype cross
+1747741564	0	[3]	id vtype cross
+5617171689	2	[2]	id vtype cross
+1249424622	0	[5]	id vtype cross
+1627825392	0	[3]	id vtype cross
+1891845373	2	[1, 2, 3, 5, 6]	id vtype cross
+5019835745	0	[6]	id vtype cross
+2149981442	0	[6]	id vtype cross
+3030975747	0	[3]	id vtype cross
+2382064902	-1	[5]	id vtype cross
+1748075785	5	[4]	id vtype cross
+3694863325	7	[1]	id vtype cross
+3191534861	0	[3]	id vtype cross
+1889213710	0	[5]	id vtype cross
+1721449743	2	[1]	id vtype cross
+1660452532	3	[0]	id vtype cross
+1786860821	2	[3]	id vtype cross
+5661505070	0	[3]	id vtype cross
+2206258462	-1	[1, 6]	id vtype cross
+1195908387	0	[0, 1, 2, 3, 4, 6]	id vtype cross
+1803310643	3	[4]	id vtype cross
+3440325930	0	[0, 4]	id vtype cross
+2475574571	2	[1]	id vtype cross
+2288735533	0	[6]	id vtype cross
+3566646574	5	[2]	id vtype cross
+3676435761	0	[0]	id vtype cross
+1757142323	-1	[0]	id vtype cross
+3690518992	7	[2]	id vtype cross
+5907262772	-1	[3]	id vtype cross
+1826082103	-1	[2]	id vtype cross
+2447680824	0	[0, 4]	id vtype cross
+2006278231	2	[3]	id vtype cross
+1805280571	-1	[4]	id vtype cross
+1807715644	0	[5]	id vtype cross
+1842136381	0	[2]	id vtype cross
+2219523390	0	[4]	id vtype cross
+1892463935	7	[2]	id vtype cross
+2213526752	0	[1]	id vtype cross
+1765870915	3	[4]	id vtype cross
+2803301701	3	[0, 1, 2, 3, 4, 5, 6]	id vtype cross
+1624923463	0	[2]	id vtype cross
+5749042654	2	[4]	id vtype cross
+2141934923	2	[0, 4]	id vtype cross
+3044746573	3	[0, 4]	id vtype cross
+5139152205	-1	[2]	id vtype cross
+2372255055	2	[2]	id vtype cross
+5350911311	0	[4]	id vtype cross
+5635855696	0	[2]	id vtype cross
+1699540307	3	[0, 1, 5, 6]	id vtype cross
+1709286740	3	[6]	id vtype cross
+1771140437	0	[0]	id vtype cross
+3515112791	7	[2]	id vtype cross
+1134796120	0	[0, 1, 4, 6]	id vtype cross
+1800611161	0	[3]	id vtype cross
+1773655610	0	[3]	id vtype cross
+5182171545	3	[5]	id vtype cross
+3394123104	0	[0, 5]	id vtype cross
+1650107735	7	[2]	id vtype cross
+1895431523	3	[1]	id vtype cross
+2833736934	2	[3]	id vtype cross
+1733879143	3	[1]	id vtype cross
+1654134123	3	[1, 5, 6]	id vtype cross
+3871046669	2	[3]	id vtype cross
+1649597805	3	[3]	id vtype cross
+5991744877	0	[4]	id vtype cross
+3184727490	-1	[5]	id vtype cross
+2202387347	2	[1, 3]	id vtype cross
+5939109236	0	[6]	id vtype cross
+5253090679	0	[0, 6]	id vtype cross
+1965628823	-1	[0, 5]	id vtype cross
+2087875965	3	[0, 5]	id vtype cross
+1314637182	0	[5]	id vtype cross
+1993305471	0	[0, 1, 4]	id vtype cross
+1100856704	0	[3]	id vtype cross
+2141334915	0	[4]	id vtype cross
+5222794628	-1	[0]	id vtype cross
+2173885832	0	[6]	id vtype cross
+1845003657	-1	[6]	id vtype cross
+1457530250	-1	[2]	id vtype cross
+1698233740	3	[1, 5, 6]	id vtype cross
+1740522895	3	[5]	id vtype cross
+1614106000	-1	[5]	id vtype cross
+1977459170	0	[3]	id vtype cross
+2632955282	-1	[1, 6]	id vtype cross
+1497728405	0	[6]	id vtype cross
+5657732501	-1	[1]	id vtype cross
+5100758422	-1	[1]	id vtype cross
+3031762330	0	[6]	id vtype cross
+3163213212	-1	[4]	id vtype cross
+2950733213	2	[3]	id vtype cross
+2804506181	-1	[0, 1, 6]	id vtype cross
+3280162210	-1	[6]	id vtype cross
+1750070171	3	[3, 5]	id vtype cross
+2394530374	0	[6]	id vtype cross
+2814680487	0	[0, 4]	id vtype cross
+2133521832	0	[1]	id vtype cross
+1652184490	0	[1]	id vtype cross
+3085327787	-1	[1, 6]	id vtype cross
+5882998192	0	[3, 4]	id vtype cross
+3881723316	2	[2]	id vtype cross
+2305056670	-1	[4]	id vtype cross
+1814975931	3	[0, 5]	id vtype cross
+1855152373	5	[4]	id vtype cross
+1241148864	0	[2, 3, 4, 5]	id vtype cross
+2304394690	2	[3]	id vtype cross
+5454806466	0	[0]	id vtype cross
+1927538117	0	[0]	id vtype cross
+3021514657	2	[3]	id vtype cross
+1076684233	3	[5]	id vtype cross
+1233227211	0	[5]	id vtype cross
+1900887504	-1	[0, 3, 4]	id vtype cross
+1596329427	0	[1]	id vtype cross
+3952362964	-1	[1]	id vtype cross
+2049998295	-1	[4]	id vtype cross
+2129999320	0	[0]	id vtype cross
+1809745371	2	[3]	id vtype cross
+1236837852	0	[6]	id vtype cross
+2140227493	0	[0, 4, 5]	id vtype cross
+5260938047	-1	[2]	id vtype cross
+1866632784	-1	[6]	id vtype cross
+1755370981	0	[6]	id vtype cross
+1265020392	0	[4]	id vtype cross
+1999607273	0	[3]	id vtype cross
+1791542762	0	[1]	id vtype cross
+5033584457	2	[5]	id vtype cross
+5794908753	-1	[5]	id vtype cross
+3771196911	2	[3]	id vtype cross
+1700648435	3	[0, 6]	id vtype cross
+5340280308	0	[0, 5]	id vtype cross
+1659041705	0	[3]	id vtype cross
+1564198397	0	[5]	id vtype cross
+3788301822	0	[1, 3]	id vtype cross
+1496260095	-1	[1]	id vtype cross
+2969186274	0	[3]	id vtype cross
+1623404035	0	[5]	id vtype cross
+1806910981	0	[0]	id vtype cross
+1105596542	-1	[6]	id vtype cross
+2645833223	0	[0]	id vtype cross
+5015473540	0	[4]	id vtype cross
+2736141837	-1	[5]	id vtype cross
+1893801487	3	[1, 6]	id vtype cross
+1623886424	3	[4]	id vtype cross
+1990954515	3	[2]	id vtype cross
+1739732501	0	[1]	id vtype cross
+1895964183	0	[0, 4]	id vtype cross
+1839167003	2	[3]	id vtype cross
+5346645534	-1	[1]	id vtype cross
+2219124641	-1	[6]	id vtype cross
+2758719013	7	[2]	id vtype cross
+1651428902	3	[5]	id vtype cross
+2027033521	2	[3]	id vtype cross
+2809841193	0	[2]	id vtype cross
+2832469547	-1	[2]	id vtype cross
+3042094223	0	[3]	id vtype cross
+3765124653	3	[6]	id vtype cross
+2143579695	0	[3]	id vtype cross
+5143716103	7	[2]	id vtype cross
+5870071346	-1	[2]	id vtype cross
+1750822455	3	[2]	id vtype cross
+1935167034	1	[1, 5]	id vtype cross
+2687299131	0	[0, 2]	id vtype cross
+5524008509	2	[1]	id vtype cross
+1784473157	3	[0, 1, 3, 5, 6]	id vtype cross
+2386406982	0	[4]	id vtype cross
+1927364167	3	[4]	id vtype cross
+2418724427	1	[5]	id vtype cross
+5193633355	-1	[1]	id vtype cross
+1990309453	3	[2]	id vtype cross
+1668662863	3	[4]	id vtype cross
+1742741072	0	[4]	id vtype cross
+1737961042	3	[2]	id vtype cross
+1886672467	-1	[1, 3, 4, 6]	id vtype cross
+1832447572	-1	[1]	id vtype cross
+3986933335	0	[0, 1]	id vtype cross
+2000518915	5	[2]	id vtype cross
+5709076056	-1	[2]	id vtype cross
+3043951887	-1	[2]	id vtype cross
+2050067882	0	[3]	id vtype cross
+1778912865	-1	[2]	id vtype cross
+3146661474	-1	[2]	id vtype cross
+2432009827	0	[2]	id vtype cross
+1655363172	1	[0]	id vtype cross
+5899421284	-1	[6]	id vtype cross
+1710173801	2	[3]	id vtype cross
+3937619562	-1	[5]	id vtype cross
+2442373880	-1	[3]	id vtype cross
+1847123567	3	[1, 5, 6]	id vtype cross
+1653603955	3	[0, 5, 6]	id vtype cross
+2709577332	0	[0, 3, 4]	id vtype cross
+1980569103	0	[3]	id vtype cross
+2662423037	-1	[5]	id vtype cross
+2033139325	-1	[2]	id vtype cross
+2713968254	0	[6]	id vtype cross
+3645226624	-1	[4]	id vtype cross
+2747143811	0	[2]	id vtype cross
+1720962692	3	[0]	id vtype cross
+1677318422	-1	[1]	id vtype cross
+5138579079	0	[0]	id vtype cross
+2192606857	0	[1]	id vtype cross
+1266269835	3	[4]	id vtype cross
+5341306507	0	[2]	id vtype cross
+1788911247	0	[1, 4]	id vtype cross
+3908755088	1	[5]	id vtype cross
+2806576785	-1	[6]	id vtype cross
+1649155730	0	[3]	id vtype cross
+2891529877	0	[0, 1, 3, 4, 6]	id vtype cross
+2809310870	0	[0]	id vtype cross
+5215495831	3	[2]	id vtype cross
+1368589977	3	[6]	id vtype cross
+5918987931	1	[0]	id vtype cross
+1830442653	2	[2, 4, 6]	id vtype cross
+1267224222	0	[6]	id vtype cross
+1909253791	2	[5]	id vtype cross
+1861054113	-1	[2]	id vtype cross
+5500491427	2	[3]	id vtype cross
+1567852087	0	[4]	id vtype cross
+1734530730	3	[0]	id vtype cross
+2819115182	-1	[3]	id vtype cross
+1154814715	-1	[5]	id vtype cross
+5603237555	0	[1]	id vtype cross
+3125368501	0	[4]	id vtype cross
+1926909715	3	[5]	id vtype cross
+2589460084	-1	[1]	id vtype cross
+1975650700	-1	[6]	id vtype cross
+1663612603	3	[5]	id vtype cross
+2270955383	-1	[6]	id vtype cross
+5729169092	-1	[1, 6]	id vtype cross
+3508092614	-1	[1]	id vtype cross
+1904228041	1	[1]	id vtype cross
+1695958733	-1	[0, 2, 3, 4, 5]	id vtype cross
+1583361742	0	[4]	id vtype cross
+1763864272	0	[1, 6]	id vtype cross
+5406572240	2	[3]	id vtype cross
+1974808274	2	[5]	id vtype cross
+1757353251	-1	[4]	id vtype cross
+1705180884	0	[0, 3, 5]	id vtype cross
+1887344341	5	[0, 1, 5, 6]	id vtype cross
+3775056661	0	[6]	id vtype cross
+1845864154	3	[0, 5]	id vtype cross
+2075686772	7	[2]	id vtype cross
+5212952283	-1	[1]	id vtype cross
+1193725273	3	[5]	id vtype cross
+2074685151	1	[1]	id vtype cross
+2811244260	0	[6]	id vtype cross
+1778181861	0	[0, 4]	id vtype cross
+1402138343	0	[1]	id vtype cross
+1661169385	2	[3]	id vtype cross
+2242603603	2	[5]	id vtype cross
+1593933550	0	[1]	id vtype cross
+5844573935	0	[0]	id vtype cross
+1173446387	0	[2]	id vtype cross
+2714280233	0	[3, 4]	id vtype cross
+2871868031	7	[2]	id vtype cross
+1901447125	2	[5]	id vtype cross
+5000609535	1	[5]	id vtype cross
+3740976897	-1	[1]	id vtype cross
+5973497601	0	[6]	id vtype cross
+1899810091	3	[2]	id vtype cross
+3939426052	0	[1, 5, 6]	id vtype cross
+1323527941	3	[0, 1, 5, 6]	id vtype cross
+1718966023	3	[2]	id vtype cross
+5732523783	2	[3]	id vtype cross
+1341902602	3	[2]	id vtype cross
+5602093377	-1	[6]	id vtype cross
+5460991756	7	[2, 4]	id vtype cross
+2239792910	5	[5]	id vtype cross
+2140657423	0	[0]	id vtype cross
+1815418641	0	[3, 5]	id vtype cross
+5042958097	2	[2]	id vtype cross
+3284301443	7	[3]	id vtype cross
+1900082965	-1	[1, 6]	id vtype cross
+3695013654	0	[4]	id vtype cross
+2462605080	3	[1, 5]	id vtype cross
+2400966427	0	[0]	id vtype cross
+5746403289	0	[2]	id vtype cross
+1595424542	0	[6]	id vtype cross
+1642585887	3	[5]	id vtype cross
+2077063131	2	[6]	id vtype cross
+5590671139	-1	[5]	id vtype cross
+1730866981	3	[2]	id vtype cross
+1992613670	3	[1]	id vtype cross
+5041890608	7	[2]	id vtype cross
+3900215081	0	[0, 3, 4, 5]	id vtype cross
+3229476653	-1	[1]	id vtype cross
+2632236847	3	[1]	id vtype cross
+1640601392	3	[1, 6]	id vtype cross
+5721200433	0	[6]	id vtype cross
+5067607858	2	[2, 3]	id vtype cross
+1894445180	0	[6]	id vtype cross
+1823287210	0	[6]	id vtype cross
+1774057271	3	[0, 1]	id vtype cross
+1281488180	7	[2]	id vtype cross
+5707057078	1	[6]	id vtype cross
+1234849602	3	[2]	id vtype cross
+1816235843	0	[0]	id vtype cross
+1640337222	3	[1, 5]	id vtype cross
+2812335943	0	[4]	id vtype cross
+5533570956	3	[6]	id vtype cross
+3167305545	0	[0, 4]	id vtype cross
+1735747402	2	[0, 5]	id vtype cross
+5845955894	0	[3, 5]	id vtype cross
+3622512610	0	[3, 4, 5]	id vtype cross
+2121667213	0	[5]	id vtype cross
+1781845841	-1	[1]	id vtype cross
+2269103954	0	[1]	id vtype cross
+1756667731	-1	[3]	id vtype cross
+1642088277	3	[0, 1, 2, 3, 5, 6]	id vtype cross
+1737588567	-1	[1, 3]	id vtype cross
+1253139560	0	[2]	id vtype cross
+5040955225	0	[0]	id vtype cross
+1990921871	3	[2]	id vtype cross
+3179974970	-1	[4]	id vtype cross
+1974576991	3	[0, 1, 2, 3, 4, 5, 6]	id vtype cross
+1808576352	3	[1]	id vtype cross
+1649469284	3	[0]	id vtype cross
+3216449381	-1	[6]	id vtype cross
+5979631461	0	[4]	id vtype cross
+2953903975	1	[5]	id vtype cross
+5291655015	-1	[0]	id vtype cross
+1715001194	2	[3]	id vtype cross
+2182038504	0	[0, 4, 5]	id vtype cross
+1005479794	-1	[2]	id vtype cross
+1743578995	2	[2]	id vtype cross
+5239863155	0	[0, 2, 4]	id vtype cross
+2283581301	0	[3]	id vtype cross
+1656737654	3	[0]	id vtype cross
+1158180841	0	[2]	id vtype cross
+1847582585	3	[0]	id vtype cross
+5467852665	3	[1, 5, 6]	id vtype cross
+3786649467	0	[0]	id vtype cross
+1286659964	2	[2, 3]	id vtype cross
+2772291221	5	[1, 5]	id vtype cross
+1144850304	0	[3]	id vtype cross
+2280198017	3	[6]	id vtype cross
+1887790981	3	[0]	id vtype cross
+1939140487	0	[6]	id vtype cross
+3329910664	-1	[2]	id vtype cross
+5722634120	0	[0, 5]	id vtype cross
+2010226570	0	[4]	id vtype cross
+3177527181	0	[0, 1, 4]	id vtype cross
+2574126482	-1	[0]	id vtype cross
+1880139665	-1	[0]	id vtype cross
+2131445654	-1	[0]	id vtype cross
+2641686425	3	[1]	id vtype cross
+2025231343	-1	[0, 5]	id vtype cross
+2193518494	3	[2]	id vtype cross
+1571497285	0	[6]	id vtype cross
+5031234543	0	[2]	id vtype cross
+5598304842	-1	[6]	id vtype cross
+1416237723	0	[6]	id vtype cross
+5540466595	0	[1]	id vtype cross
+1764222885	0	[0, 3, 4]	id vtype cross
+5587568550	0	[4]	id vtype cross
+1871802012	1	[1, 6]	id vtype cross
+2412421034	5	[2]	id vtype cross
+6033930155	0	[1, 2]	id vtype cross
+1743951792	1	[1]	id vtype cross
+1068385283	0	[5]	id vtype cross
+2611704935	1	[1]	id vtype cross
+1645823934	0	[5]	id vtype cross
+3625975797	-1	[6]	id vtype cross
+1154258881	0	[5]	id vtype cross
+3618099141	0	[0]	id vtype cross
+1872762823	0	[3]	id vtype cross
+1797679051	2	[2]	id vtype cross
+3641513235	0	[0, 3, 4, 5]	id vtype cross
+1960785875	3	[0, 1, 5, 6]	id vtype cross
+2521540564	2	[3]	id vtype cross
+2989789141	-1	[2]	id vtype cross
+1899702230	5	[3]	id vtype cross
+1654922233	-1	[4]	id vtype cross
+1860128420	0	[5]	id vtype cross
+1699432410	3	[1, 5, 6]	id vtype cross
+1792702427	1	[0]	id vtype cross
+2653906910	-1	[4]	id vtype cross
+5044281310	3	[0, 1, 2, 3, 5, 6]	id vtype cross
+2855143392	-1	[4]	id vtype cross
+2181597154	3	[1, 6]	id vtype cross
+1638782947	3	[3, 5]	id vtype cross
+3195002852	2	[3]	id vtype cross
+1988800805	3	[5]	id vtype cross
+1435160552	0	[5]	id vtype cross
+1935198185	-1	[0, 1, 2, 4, 6]	id vtype cross
+1990905835	3	[2]	id vtype cross
+1223178222	0	[3]	id vtype cross
+1990303727	3	[2]	id vtype cross
+5664614383	-1	[6]	id vtype cross
+1665808371	-1	[1, 5, 6]	id vtype cross
+1896820725	0	[5]	id vtype cross
+5133215733	0	[6]	id vtype cross
+2784552954	2	[3]	id vtype cross
+1769684987	3	[4]	id vtype cross
+1858549757	-1	[3]	id vtype cross
+2904252415	-1	[4]	id vtype cross

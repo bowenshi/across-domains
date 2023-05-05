@@ -1,0 +1,32 @@
+singledomain,crossdomain,num
+Society,"[society, entertainment]",17
+Society,"[society, finance]",5.5
+Society,"[society, technology, entertainment]",2.3
+Society,"[society, international, finance, military]",1.75
+Society,Across seven domains,0.857
+Society,"[society, international]",3
+International,"[international, military]",11.5
+International,"[international, finance, military]",4
+International,"[international, finance]",6
+International,"[society, international, finance, military]",1.75
+International,Across seven domains,0.857
+International,"[society, international]",3
+Sports,Across seven domains,0.857
+Technology,"[technology, finance]",5
+Technology,"[society, technology, entertainment]",2.3
+Technology,"[technology, entertainment]",3.5
+Technology,Across seven domains,0.857
+Entertainment,"[society, entertainment]",17
+Entertainment,"[society, technology, entertainment]",2.3
+Entertainment,"[technology, entertainment]",3.5
+Entertainment,Across seven domains,0.857
+Finance,"[international, finance, military]",4
+Finance,"[international, finance]",6
+Finance,"[society, finance]",5.5
+Finance,"[technology, finance]",5
+Finance,"[society, international, finance, military]",1.75
+Finance,Across seven domains,0.857
+Military,"[international, military]",11.5
+Military,"[international, finance, military]",4
+Military,"[society, international, finance, military]",1.75
+Military,Across seven domains,0.857
