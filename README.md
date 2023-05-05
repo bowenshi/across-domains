@@ -1,6 +1,6 @@
 # Domain-Relevance of Influence: Characterizing variations in online influence across multiple domains on social media
 
-The latest version of the data set and codes can be found in the branch
+The latest version of the data set and codes can be found at the branch
 
 https://github.com/bowenshi/cross-domains/tree/master
 
